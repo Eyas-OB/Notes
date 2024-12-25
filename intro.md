@@ -140,13 +140,14 @@ want to prove to myself that I can be good at stats too
 - this is the hypothesis we want to find evidence for
 - so if we are trying to see if our drug has an effect on blood pressure our research hypothsys would be that the drug does have an affect on blood pressure
 - we cant test on this directly with a classical hypothsys test so we test the *opsite*
-- we are going to test that the drug has no effect on blood pressure 
+- so we end up testing if the drug has no effect on blood pressure 
+- we are going to test the oppisite and see how our sample performs 
 
 *breaking it down*
 - first we are going to assume that the drug has no effect on the population 
 - then we are going to sample the drug on some people 
-- if we find that people are being affected by the drug we can ask ourselfs how likley is it that we have a bunch of people that are affected by this drug when the drug actually has no effect (basically how likley is it to get a sample like this) 
-- if we can find a sample like this often then we might have enough evedence to reject the null hyp. meaning that the drug actually has an affect 
+- if we find that people are being affected by the drug we can ask ourselfs how likley is it that we have a bunch of people that are affected by this drug when the drug actually has no effect (basically how likley is it to get a sample like this due to random chance) 
+- if we can find a sample like this (and its not random) often then we might have enough evedence to reject the null hyp. meaning that the drug actually has an affect 
 - the probibility of finding another sample like our first one or finding another sample that deveates even more is called the *p-value*
 
 *aside*
@@ -159,7 +160,6 @@ want to prove to myself that I can be good at stats too
 - if we get a P less than 0.05 thats usually a good indacatior that our null hypothsys is wrong 
 - however a small p value does not prove that the alternative hyp is true
 - it only says that its unlikley to get a a crazy value when the null hyp is true 
-- 
 
 *aside*
 - small p value says that the data is inconsistant with the null hypothsys
