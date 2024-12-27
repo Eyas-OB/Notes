@@ -170,3 +170,5 @@ want to prove to myself that I can be good at stats too
 - ex -> the drug actually had no effect but our sample was so crazy that we thought it actually had an effect
 - type 2 error: when a false null hyp is not rejected
 - this means that the drug worked but the sample showed no diffrence so we thought it didnt work 
+
+
