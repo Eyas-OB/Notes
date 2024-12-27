@@ -64,7 +64,7 @@ want to prove to myself that I can be good at stats too
 - this is how far away each data point is from the mean on average 
 - to calculate SD we use this equation: 
 
-![alt text](images/SD_EQ.jpeg)
+![alt text](..\images/SD_EQ.jpeg)
 - $\sigma$ repersents our standard devation  
 - n is our sample size
 - $\bar{x}$ is the mean value of all people 
@@ -72,7 +72,7 @@ want to prove to myself that I can be good at stats too
 
 - we have 2 diffrent formulas for SD 
 
-![alt text](images/SD_EQ2.jpeg)
+![alt text](..\images/SD_EQ2.jpeg)
 
 - to keep it simple if our survay does not cover the entire population 
 - we always use the second equation the second equation will always estimate the SD
@@ -107,8 +107,7 @@ want to prove to myself that I can be good at stats too
 - now we will ask the employees how they get to work and where the work
 - we can display both values using a Contingency table
 
-![alt text](images/Screenshot_24-12-2024_20058_www.youtube.com.jpeg)
-
+![alt text](../images/Screenshot_24-12-2024_20058_www.youtube.com.jpeg)
 - the rows repersents the catagories of one varable in this case being how many people chose their mode of transport
 - the cols repersent how many people that surveyed are from detroit or cleveland 
 
@@ -117,7 +116,7 @@ want to prove to myself that I can be good at stats too
 **what are inferental stats**
 - inferental stats allows us to make a conclusion on a population based on data that is given by a sample 
 
-![alt text](images/Screenshot_24-12-2024_20826_www.youtube.com.jpeg)
+![alt text](..\images/Screenshot_24-12-2024_20826_www.youtube.com.jpeg)
 
 - population is the whole group we are intrested in 
 - sample is the group that we study 
