@@ -16,7 +16,9 @@
   - [How to do a t-test](#how-to-do-a-t-test)
   - [small recap](#small-recap)
   - [how to actually use our t-value](#how-to-actually-use-our-t-value)
-  - [**what is the p value**](#what-is-the-p-value)
+    - [**what is the p value**](#what-is-the-p-value)
+    - [critical t-values](#critical-t-values)
+    - [2 tailed vs 1 tailed](#2-tailed-vs-1-tailed)
 
 
 
@@ -83,6 +85,31 @@
 ## how to actually use our t-value
  - we can read the crtitical values from a table
  - or we can use the t-value to find the p-value
-  **what is the p value**
- - 
+ ### **what is the p value**
+ - so first remember that a t-test tests that there is no diffrence
+ - when we draw a sample the sample will devate from the null hypothsys by a certian amount 
+ - the p-value will tell us how likley it is that we draw a value that deveates by the same amount or more
+ - so we can think that crazy outliers will usually result in a very low p value because there will be less likley to find a sample that has a crazy diffrence from the mean
+ ### critical t-values
+ -  we can understand our t-values by looking at a t-table
+ -  the col's of this table repersents our signifance level 
+ - if we want to have a significance level of 0.05 we will take 1 - 0.05 which will be 0.95 
+ - the rows repersent the dagrees of freedom which is the number of cases - 1
+ - ex -> if we have a sample of 10 people there are 9 degrees of freedom 
+ - in a independent t-test we take both samples -2 ex -> (n1 + n2) - 2 
+ 
+ ![alt text](<../images/Screenshot 2024-12-28 083842.png>)
+
+ - looking at this table if we have a 0.05 level of significnance (0.95) and a df of 9 we will have a critical t value of 2.262
+ - if our calaulated t-value is larger than the critical t-value
+ - we reject the null hypothisys
+ - ex -> we get a t-value of 2.5
+ ### 2 tailed vs 1 tailed
+ - in a 2 tailed test we could reject the null hypothsys if we are too far away from the bell curve on either side
+ - in a one tailed test we will only reject null if we are too far away from the bell curve on one side
+ 
+ ![alt text](<../images/Screenshot 2024-12-28 090054.png>)
+  
+
+
  
