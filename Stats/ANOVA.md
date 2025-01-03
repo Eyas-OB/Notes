@@ -1,6 +1,13 @@
-# Table of contents 
+# ANOVA Testing 
 
-- [Table of contents](#table-of-contents)
+- [ANOVA Testing](#anova-testing)
+  - [intro to ANOVA](#intro-to-anova)
+  - [why do we need ANOVA?](#why-do-we-need-anova)
+  - [how to do a one way ANOVA test](#how-to-do-a-one-way-anova-test)
+  - [hypothisys](#hypothisys)
+  - [another example](#another-example)
+  - [2 way anova test](#2-way-anova-test)
+    - [what is a 2 way anova?](#what-is-a-2-way-anova)
 
 ## intro to ANOVA 
  - anova stands for Analysis of Varance
@@ -31,3 +38,10 @@
  - a 2 way anova is a stats method that is used to test the effect of 2 categorical variables on a contunious varable
  - the catagorical varables are independant varables  
  - a contionus varable is a dependent varable so the 2 way ANOVA test aims to mesure the effect of 2 independant varables on one dependant varable 
+ - a 2 way anova tests the effects of 2 indapendent varables 
+ - the independent varables are called factors 
+ - factors are all nominal varables ex -> gender and field of study 
+
+
+
+
