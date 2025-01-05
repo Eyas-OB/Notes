@@ -26,31 +26,31 @@
  - after this section we should know 
  - what a t-test is and when to use it 
  - what types of t-tests there are
- - what is hypothsys and what are the asumptions 
+ - what is hypotheses and what are the assumptions 
  - how a t test is calculated
 
 ## what is a t-test?
- - a t-test is a stastical test prodedure
- - a t-test aims to see whether there is a significant diffrence between the mean of 2 groups
- - ex -> lets say that we want to see how well some drug tests are doing we can have drug A and drug B if we want to know if there is a diffrence in the blood pressure of the 2 groups 
+ - a t-test is a statical test procedure
+ - a t-test aims to see whether there is a significant difference between the mean of 2 groups
+ - ex -> lets say that we want to see how well some drug tests are doing we can have drug A and drug B if we want to know if there is a difference in the blood pressure of the 2 groups 
 
 ## types of t-tests
  ### **one sample**
- - this is used when we want to compare the mean of a sample with a known refrence
- - ex ->  somone that makes choclate says their bars weigh an average of 50 grams to check this we can weigh 30 bars from that person and we find that the mean value of the weight is 48 grams then we check if the 48 grams is significantly diffrent from the 50 grams 
+ - this is used when we want to compare the mean of a sample with a known reference
+ - ex ->  someone that makes chocolate says their bars weigh an average of 50 grams to check this we can weigh 30 bars from that person and we find that the mean value of the weight is 48 grams then we check if the 48 grams is significantly different from the 50 grams 
  ### **independent**
- - this is when we want to compare the means of 2 independant samples 
- - we want to see if there is a significant diffrence between these means
- - ex -> we want to see the effectivness of 2 painkillers to do this we can take 60 people and put them into 2 groups we can look at the mean diffrence in pain relif to see if their is a significant diffrence between the 2 groups
+ - this is when we want to compare the means of 2 independent samples 
+ - we want to see if there is a significant difference between these means
+ - ex -> we want to see the effectiveness of 2 painkillers to do this we can take 60 people and put them into 2 groups we can look at the mean difference in pain relief to see if their is a significant difference between the 2 groups
  ### **pair-sample**
- - ex -> lets say that we want to see if a diet plan works we can see how much people weighed before they started the diet and then how much they weighed aftet their diet 
+ - ex -> lets say that we want to see if a diet plan works we can see how much people weighed before they started the diet and then how much they weighed after their diet 
  - similar to one sample 
- - its like one sample mesured twice we can just do weight - newWeight then take the mean of the diffrence and compare that value to 0 this will show how much people have deveated from their average weight
+ - its like one sample measured twice we can just do weight - new Weight then take the mean of the difference and compare that value to 0 this will show how much people have deviated from their average weight
 
 ## what are the assumptions for a t-test
  - in all kinds of t-tests we will need to make sure that we have the right sample data being metric data 
  - in all types of t-tests the metric data must be normally distributed (we can test if our data is normally distributed) 
- - for a indapendent t-test the varance has to be approximatly eaqual we can test for this using levenes test
+ - for a independent t-test the variance has to be approximately equal we can test for this using levenes test
 
 ## what are the hypothisys for a t-test
  ### **one sample**
